@@ -1,4 +1,5 @@
 print("Hello world");
 println("hello world all");
 println("good day may friends");
+println("see nice sea");
 println("naice today");
